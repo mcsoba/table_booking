@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Guibeadando">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tablebooking/dist/Guibeadando.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
